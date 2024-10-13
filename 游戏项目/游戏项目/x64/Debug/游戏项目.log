@@ -1,0 +1,7 @@
+﻿  tools.cpp
+F:\excercise\课余\游戏项目\游戏项目\tools.cpp(20,17): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+F:\excercise\课余\游戏项目\游戏项目\tools.cpp(193,97): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\excercise\课余\游戏项目\游戏项目\tools.cpp(193,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\excercise\课余\游戏项目\游戏项目\tools.cpp(193,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\excercise\课余\游戏项目\游戏项目\tools.cpp(193,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  游戏项目.vcxproj -> F:\excercise\课余\游戏项目\x64\Debug\游戏项目.exe
